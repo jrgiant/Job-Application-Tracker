@@ -1,0 +1,41 @@
+{
+  "name": "job-application-tracker",
+  "version": "0.1.0",
+  "description": "Searchable list of Jobs you have applied for with reminders to follow up",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgiant/job-application-tracker.git"
+  },
+  "keywords": [
+    "Job",
+    "Tracker",
+    "F/U",
+    "Follow",
+    "Up",
+    "Unemployment"
+  ],
+  "author": "JrGiant Development",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jrgiant/job-application-tracker/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "pg": "7.4.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "faker": "^4.1.0",
+    "mocha": "^4.1.0"
+  }
+}
