@@ -1,0 +1,17 @@
+.header {
+    height: 10vh;
+    background-color: #c0ffee;
+}
+
+form {
+    background-color: #367E99;
+}
+.label{
+  color:#000;
+}
+[class*='col-md-']{
+  background-color: #eeffee;
+  padding: 3%;
+  border: #ccddcc solid 2px;;
+  border-radius: 30px;
+}

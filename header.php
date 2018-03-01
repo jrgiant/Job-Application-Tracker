@@ -10,6 +10,7 @@
       <!-- Bootstrap -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="style.css?ver=20180120_1215">
 
       <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -20,3 +21,6 @@
       <?php if(isset($CFG->headerScripts)) echo $CFG->headerScripts; ?>
     </head>
     <body>
+      <div class="header container-fluid">
+        <h1><?php echo $CFG->appName; ?></h1>
+      </div>
