@@ -83,3 +83,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# Application Specific
+config.php

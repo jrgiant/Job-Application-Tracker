@@ -1,0 +1,12 @@
+How						|Results
+1	InPerson            |1	Pending
+2	Email               |2	Not Selected
+3	Online              |3	Interview
+4	Recruiter			|4	Position Offered
+                        |5	Job Not Excepted
+Type                    |6	Other
+1	Application         |
+2	Resume              |
+3	Other               |
+
+
